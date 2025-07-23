@@ -70,6 +70,6 @@ Hi there! I'm **Tho**, representing **TxMScript** – a creative dev studio focu
   <img src="https://komarev.com/ghpvc/?username=txmscriptdev&label=Profile+Views&color=36BCF7" />
   <br/>
   <a href="https://github.com/txmscriptdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=TxMScript&show_icons=true&theme=radical" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api?username=txmscriptdev&show_icons=true&theme=radical" height="180" />
   </a>
 </p>
