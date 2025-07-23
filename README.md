@@ -51,7 +51,7 @@ Hi there! I'm **Tho**, representing **TxMScript** – a creative dev studio focu
 ## 🌐 Contact & Socials
 
 <p align="center">
-  <a href="https://txmscriptdev.com"><img src="https://img.shields.io/badge/Website-KinetDev.com-blue?style=for-the-badge&logo=google-chrome" /></a>
+  <a href="https://txmscriptdev.com"><img src="https://img.shields.io/badge/Website-TxMScript.com-blue?style=for-the-badge&logo=google-chrome" /></a>
   <a href="https://discord.gg/txmscriptdev"><img src="https://img.shields.io/badge/Discord-Join%20Us-blueviolet?style=for-the-badge&logo=discord" /></a>
   <a href="https://github.com/txmscriptdev"><img src="https://img.shields.io/badge/GitHub-TxMScript-black?style=for-the-badge&logo=github" /></a>
   <a href="mailto:contact@txmscriptdev.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
