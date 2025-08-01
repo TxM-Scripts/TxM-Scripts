@@ -1,75 +1,49 @@
-<h1 align="center">✨ Thỏ — TxMScript</h1>
+<h1 align="center">👋 Xin chào, tôi là <span style="color:#539eff;">TxM</span></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Welcome+to+TxMScript;Web+%7C+FiveM+%7C+DiscordBot+Solutions;Let's+build+something+amazing!" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FiveM-Scripting-orange?style=flat&logo=lua" />
-  <img src="https://img.shields.io/badge/Web-Development-blue?style=flat&logo=javascript" />
-  <img src="https://img.shields.io/badge/Discord-Bot-blueviolet?style=flat&logo=discord" />
-  <img src="https://img.shields.io/badge/Language-Vietnamese%20%2F%20English-green" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=539EFF&center=true&vCenter=true&width=435&lines=FiveM+Developer;Lập+trình+Lua+%7C+JS+%7C+UI%2FUX;Yêu+thích+sự+gọn+gàng+và+hiệu+quả;Open+Source+Lover" alt="Typing SVG" />
 </p>
 
 ---
 
-## Giới thiệu (🇻🇳)
+### 🧠 Về Tôi
 
-Xin chào! Mình là **Thỏ**, đại diện cho **TxMScript** – nơi hội tụ của sáng tạo, công nghệ và cộng đồng phát triển mạnh mẽ.
-
-### 💼 Dịch vụ chúng tôi cung cấp:
-- 🔧 **FiveM**: Phát triển Script, Job, UI, minigame theo yêu cầu
-- 🌐 **Web**: Thiết kế landing page, admin dashboard, Figma to HTML
-- 🤖 **Discord Bot**: Phân quyền, quản lý server, automation tools
-- 🛠️ **Custom Tool**: Launcher, tool quản lý, hệ thống nội bộ cho cộng đồng
-
-### ✅ Vì sao chọn TxMScript?
-- Kinh nghiệm thực chiến trong cộng đồng RP
-- Code rõ ràng, tối ưu, dễ mở rộng
-- Hỗ trợ song ngữ **Tiếng Việt & English**
-- Hỗ trợ tận tâm – giao đúng hẹn – tối ưu chi phí
+- 🔨 Nhà phát triển **FiveM scripts** theo hướng tối ưu và dễ mở rộng
+- 🌱 Đang nâng cấp kỹ năng với **QBCore**, **UI/UX Web**, và **Framework nội bộ**
+- 🧰 Thành thạo **Lua**, **JavaScript**, **HTML/CSS**, **NUI**, **React (cơ bản)**
+- 💡 Tin vào nguyên lý: “**Code sạch - Giao diện rõ ràng - Trải nghiệm gọn gàng**”
+- 💬 Sẵn sàng hỗ trợ cộng đồng, chia sẻ kinh nghiệm thực chiến
 
 ---
 
-## Introduction (🇺🇸)
-
-Hi there! I'm **Tho**, representing **TxMScript** – a creative dev studio focused on game scripting, web development, and automation.
-
-### 💼 Our Services:
-- 🔧 **FiveM**: Custom scripts, jobs, UIs, and game mechanics
-- 🌐 **Web**: Modern website design, admin dashboards, Figma to HTML
-- 🤖 **Discord Bots**: Role management, automation, and moderation tools
-- 🛠️ **Custom Tools**: Server launchers, control panels, private APIs
-
-### ✅ Why work with TxMScript?
-- Hands-on experience with RP communities
-- Clean, optimized and scalable code
-- Bilingual support (**Vietnamese & English**)
-- Affordable, timely, and dedicated development
-
----
-
-## 🌐 Contact & Socials
+### 🚀 Stack Hiện Tại
 
 <p align="center">
-  <a href="https://txmscriptdev.com"><img src="https://img.shields.io/badge/Website-TxMScript.com-blue?style=for-the-badge&logo=google-chrome" /></a>
-  <a href="https://discord.gg/txmscriptdev"><img src="https://img.shields.io/badge/Discord-Join%20Us-blueviolet?style=for-the-badge&logo=discord" /></a>
-  <a href="https://github.com/txmscriptdev"><img src="https://img.shields.io/badge/GitHub-TxMScript-black?style=for-the-badge&logo=github" /></a>
-  <a href="mailto:contact@txmscriptdev.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" /></a>
+  <img src="https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 ---
 
-## 🙌 Feedback & Support
+### 📈 Thống Kê GitHub
 
-📣 Chúng tôi luôn lắng nghe mọi góp ý, phản hồi, hoặc ý tưởng từ cộng đồng.  
-📬 Hãy tham gia Discord hoặc mở Issue trên GitHub để thảo luận!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TxM&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=TxM&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+---
+
+### 📫 Liên Hệ Với Tôi
+
+- 💬 Discord: `txmdev#0001`
+- 📁 GitHub: [github.com/TxM](https://github.com/TxM)
+- 📧 Email: `txm.dev@example.com` *(thay email nếu cần)*
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=txmscriptdev&label=Profile+Views&color=36BCF7" />
-  <br/>
-  <a href="https://github.com/txmscriptdev">
-    <img src="https://github-readme-stats.vercel.app/api?username=txmscriptdev&show_icons=true&theme=radical" height="180" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:539EFF,100:131617&height=120&section=footer"/>
 </p>
