@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/TxM?style=social" />
   <img src="https://img.shields.io/github/stars/TxM?style=social" />
-  <img src="https://komarev.com/ghpvc/?username=TxM&label=Lượt+truy+cập&color=539eff" />
+  <img src="https://komarev.com/ghpvc/?username=TxM&label=Views&color=539eff" />
   <a href="https://discord.gg/txmscripts" target="_blank">
     <img src="https://img.shields.io/badge/Discord-TxM%20-5865F2?style=flat&logo=discord&logoColor=white" />
   </a>
