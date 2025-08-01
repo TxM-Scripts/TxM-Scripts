@@ -2,18 +2,18 @@
 
 <h3 align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
-    💻 TxM Scripts - Chuyên phát triển FiveM tối ưu | QBCore • ESX • Qbox • ox_inventory • UI/UX hiện đại 🎯
+    💻 TxM Scripts - Chuyên phát triển FiveM tối ưu | QBCore • ESX • Qbox  • UI/UX hiện đại 🎯
   </marquee>
 </h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/TxM?style=social" />
   <img src="https://img.shields.io/github/stars/TxM?style=social" />
-  <img src="https://komarev.com/ghpvc/?username=TxM&label=Lượt+truy+cập&color=539eff" />
-  <a href="https://discord.gg/YOUR_INVITE">
-    <img src="https://img.shields.io/badge/Discord-Trao đổi & hỗ trợ-5865F2?style=flat&logo=discord&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=TxM&label=Profile Views&color=539eff" />
+  <a href="https://discord.gg/txmscripts">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
   </a>
-  <a href="https://ko-fi.com/YOUR_KOFI">
+  <a href="https://zypage.com/txmscripts">
     <img src="https://img.shields.io/badge/Mời+cà+phê+-Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white" />
   </a>
 </p>
