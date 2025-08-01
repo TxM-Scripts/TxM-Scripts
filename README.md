@@ -5,9 +5,9 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/TxM?style=social" />
   <img src="https://img.shields.io/github/stars/TxM?style=social" />
-  <img src="https://komarev.com/ghpvc/?username=TxM&label=Lượt+Xem+Hồ+Sơ&color=539eff" />
+  <img src="https://komarev.com/ghpvc/?username=TxM&label=Profile+Views&color=539eff" />
   <a href="https://discord.gg/YOUR_INVITE"><img src="https://img.shields.io/discord/YOUR_DISCORD_ID?label=Discord&logo=discord&color=7289da&style=flat" /></a>
-  <a href="https://ko-fi.com/YOUR_KOFI"><img src="https://img.shields.io/badge/Ko--fi-Ủng+hộ-blue?logo=ko-fi" /></a>
+  <a href="https://ko-fi.com/YOUR_KOFI"><img src="https://img.shields.io/badge/Ko--fi-Donate-blue?logo=ko-fi" /></a>
 </p>
 
 ---
