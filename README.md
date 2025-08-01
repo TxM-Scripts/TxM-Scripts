@@ -1,14 +1,23 @@
-# TxM Scripts — Nhà phát triển FiveM
+# 👨‍💻 TxM Scripts — Nhà phát triển FiveM
 
-> 💻 **Lập trình viên đam mê** chuyên tạo ra các script FiveM chất lượng cao, tối ưu hoá hiệu suất cho cộng đồng GTA V roleplay trên toàn thế giới.
+<h3 align="center">
+  <marquee behavior="scroll" direction="left" scrollamount="6">
+    💻 TxM Scripts - Chuyên phát triển FiveM tối ưu | QBCore • ESX • Qbox • ox_inventory • UI/UX hiện đại 🎯
+  </marquee>
+</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/TxM?style=social" />
   <img src="https://img.shields.io/github/stars/TxM?style=social" />
-  <img src="https://komarev.com/ghpvc/?username=TxM&label=Profile+Views&color=539eff" />
-  <a href="https://discord.gg/YOUR_INVITE"><img src="https://img.shields.io/discord/YOUR_DISCORD_ID?label=Discord&logo=discord&color=7289da&style=flat" /></a>
-  <a href="https://ko-fi.com/YOUR_KOFI"><img src="https://img.shields.io/badge/Ko--fi-Donate-blue?logo=ko-fi" /></a>
+  <img src="https://komarev.com/ghpvc/?username=TxM&label=Lượt+truy+cập&color=539eff" />
+  <a href="https://discord.gg/YOUR_INVITE">
+    <img src="https://img.shields.io/badge/Discord-Trao đổi & hỗ trợ-5865F2?style=flat&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://ko-fi.com/YOUR_KOFI">
+    <img src="https://img.shields.io/badge/Mời+cà+phê+-Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white" />
+  </a>
 </p>
+
 
 ---
 
