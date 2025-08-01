@@ -1,7 +1,7 @@
 
 <h3 align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
-    💻 TxM Scripts - Phát triển FiveM tối ưu | QBCore • ESX • Qbox  • UI/UX hiện đại 🎯
+    💻 TxM Scripts - Phát triển FiveM tối ưu | QBCore • ESX • Qbox  • UI/UX 🎯
   </marquee>
 </h3>
 
