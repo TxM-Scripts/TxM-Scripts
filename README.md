@@ -1,8 +1,7 @@
-# 👨‍💻 TxM Scripts — Nhà phát triển FiveM
 
 <h3 align="center">
   <marquee behavior="scroll" direction="left" scrollamount="6">
-    💻 TxM Scripts - Chuyên phát triển FiveM tối ưu | QBCore • ESX • Qbox  • UI/UX hiện đại 🎯
+    💻 TxM Scripts - Phát triển FiveM tối ưu | QBCore • ESX • Qbox  • UI/UX hiện đại 🎯
   </marquee>
 </h3>
 
