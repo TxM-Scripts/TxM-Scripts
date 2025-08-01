@@ -1,77 +1,83 @@
-# TxM Scripts — FiveM Script Developer
+# TxM Scripts — Nhà phát triển FiveM
 
-> 💻 **Passionate Developer** crafting high-quality, optimized FiveM scripts & tools for the GTA V roleplay community worldwide.
+> 💻 **Lập trình viên đam mê** chuyên tạo ra các script FiveM chất lượng cao, tối ưu hoá hiệu suất cho cộng đồng GTA V roleplay trên toàn thế giới.
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/TxM?style=social" />
   <img src="https://img.shields.io/github/stars/TxM?style=social" />
-  <img src="https://komarev.com/ghpvc/?username=TxM&label=Profile+Views&color=539eff" />
+  <img src="https://komarev.com/ghpvc/?username=TxM&label=Lượt+Xem+Hồ+Sơ&color=539eff" />
   <a href="https://discord.gg/YOUR_INVITE"><img src="https://img.shields.io/discord/YOUR_DISCORD_ID?label=Discord&logo=discord&color=7289da&style=flat" /></a>
-  <a href="https://ko-fi.com/YOUR_KOFI"><img src="https://img.shields.io/badge/Ko--fi-Donate-blue?logo=ko-fi" /></a>
+  <a href="https://ko-fi.com/YOUR_KOFI"><img src="https://img.shields.io/badge/Ko--fi-Ủng+hộ-blue?logo=ko-fi" /></a>
 </p>
 
 ---
 
-## 🔹 About TxM
+## 🔹 Giới thiệu về TxM
 
-**TxM** is a dedicated FiveM script developer building **reliable, optimized, and scalable scripts** for the GTA V roleplay community.  
-With **3+ years of experience**, I focus on crafting reusable systems with **multi-framework compatibility**: QBCore, ESX, and Qbox.
-
----
-
-## 🧩 Core Development Principles
-
-- 🔧 Performance-first scripting
-- 🧱 Modular and maintainable codebase
-- 🔁 Cross-framework design (ESX, QBCore, Qbox)
-- 💡 Utility-driven UI & UX for real players
+**TxM** là một nhà phát triển script cho FiveM chuyên xây dựng những hệ thống **ổn định, tối ưu và dễ mở rộng** cho cộng đồng GTA V Roleplay.  
+Với hơn **1 năm kinh nghiệm**, tôi tập trung phát triển các hệ thống có thể tái sử dụng và tương thích đa nền tảng: **QBCore, ESX, Qbox**.
 
 ---
 
-## ✨ Portfolio Highlights
+## 🧩 Mô hình phát triển
 
-### 🔑 **VehicleKeys – Advanced Key Management**
-> A comprehensive vehicle key system with a modern, immersive React-based interface.
-
-- Lockpicking mini-games & valet feature
-- QBCore / ESX / Qbox compatibility
-- Proximity-based locking + targeting support
-- Autopilot interface with TypeScript frontend
+- 🔧 Ưu tiên hiệu suất & bảo trì dễ dàng
+- 🧱 Kiến trúc module rõ ràng
+- 🔁 Tương thích đa nền tảng (ESX / QBCore / Qbox)
+- 💡 Tối ưu hóa trải nghiệm người chơi & người phát triển
 
 ---
 
-### 🔗 **CommunityBridge – Universal Integration Layer**
-> Reduce time, increase compatibility.
+## ✨ Dự án nổi bật
 
-- Bridges between major FiveM frameworks
-- Works with `ox_inventory`, `qb-inventory`, etc.
-- Simplifies code reuse across servers
-- GPLv3 open-source
+### 🔑 **TxM – Hệ thống nghề lái xe tải chuyên nghiệp**
 
 ---
 
-## 🌐 Resources & Documentation
+### 🔗 **CommunityBridge – Cầu nối đa nền tảng**
+> Tăng tốc phát triển, tiết kiệm thời gian.
 
-- 📘 [Official Docs](https://txm-docs.example.com) — Setup & usage guides *(replace with actual link)*
-- ▶️ [YouTube Tutorials](https://youtube.com/@txmdev) — Video walk-throughs *(if any)*
-- 💬 [Discord Support](https://discord.gg/YOUR_INVITE) — Community help & real-time Q&A
-
----
-
-## 🚀 Popular GitHub Repositories
-
-- [`txm-vehiclekeys`](https://github.com/TxM/txm-vehiclekeys)
-- [`txm-bridge`](https://github.com/TxM/txm-bridge)
-- [`txm-clothesbox`](https://github.com/TxM/txm-clothesbox)
-*(Add more as needed)*
+- Tích hợp dễ dàng với ESX/QBCore/Qbox
+- Hỗ trợ `ox_inventory`, `qb-inventory`, v.v.
+- Tối ưu viết 1 lần dùng nhiều nơi
+- Mã nguồn mở giấy phép GPLv3
 
 ---
 
-## 🎉 Fun Dev Fact
+## 🌐 Tài liệu & Hỗ trợ
 
-> Did you know? The name “TxM” originally came from the phrase **"Tech x Modular"**, reflecting a passion for clean, reusable systems.
+- 📘 [Tài liệu](https://txm-scripts.gitbook.io/txm-scripts/) — Hướng dẫn cài đặt *(thay bằng link thật nếu có)*
+- ▶️ [YouTube](https://youtube.com/@txmscripts) — Video hướng dẫn chi tiết *(nếu có)*
+- 💬 [Discord](https://discord.gg/txmscripts) — Hỏi đáp & hỗ trợ trực tiếp
 
 ---
+
+## 🚀 Dự án GitHub tiêu biểu
+
+*(Cập nhật thêm nếu có)*
+
+---
+
+## 🎉 Sự thật thú vị
+
+> Bạn có biết? Tên gọi “TxM” bắt nguồn từ cụm từ **“Tech x Modular”**, thể hiện triết lý xây dựng hệ thống sạch sẽ, tái sử dụng được.
+
+---
+
+## 🎉 Git
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TxM&show_icons=true&theme=tokyonight&hide_title=true" alt="TxM's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TxM&theme=tokyonight" alt="TxM's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TxM&layout=compact&theme=tokyonight" alt="TxM's Top Languages" />
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:539EFF,100:131617&height=120&section=footer"/>
