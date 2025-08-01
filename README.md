@@ -1,46 +1,75 @@
-<h1 align="center">👋 Xin chào, tôi là <span style="color:#539eff;">TxM</span></h1>
+# TxM Scripts — FiveM Script Developer
+
+> 💻 **Passionate Developer** crafting high-quality, optimized FiveM scripts & tools for the GTA V roleplay community worldwide.
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=539EFF&center=true&vCenter=true&width=435&lines=FiveM+Developer;Lập+trình+Lua+%7C+JS+%7C+UI%2FUX;Yêu+thích+sự+gọn+gàng+và+hiệu+quả;Open+Source+Lover" alt="Typing SVG" />
+  <img src="https://img.shields.io/github/followers/TxM?style=social" />
+  <img src="https://img.shields.io/github/stars/TxM?style=social" />
+  <img src="https://komarev.com/ghpvc/?username=TxM&label=Profile+Views&color=539eff" />
+  <a href="https://discord.gg/YOUR_INVITE"><img src="https://img.shields.io/discord/YOUR_DISCORD_ID?label=Discord&logo=discord&color=7289da&style=flat" /></a>
+  <a href="https://ko-fi.com/YOUR_KOFI"><img src="https://img.shields.io/badge/Ko--fi-Donate-blue?logo=ko-fi" /></a>
 </p>
 
 ---
 
-### 🧠 Về Tôi
+## 🔹 About TxM
 
-- 🔨 Nhà phát triển **FiveM scripts** theo hướng tối ưu và dễ mở rộng
-- 🌱 Đang nâng cấp kỹ năng với **QBCore**, **UI/UX Web**, và **Framework nội bộ**
-- 🧰 Thành thạo **Lua**, **JavaScript**, **HTML/CSS**, **NUI**, **React (cơ bản)**
-- 💡 Tin vào nguyên lý: “**Code sạch - Giao diện rõ ràng - Trải nghiệm gọn gàng**”
-- 💬 Sẵn sàng hỗ trợ cộng đồng, chia sẻ kinh nghiệm thực chiến
+**TxM** is a dedicated FiveM script developer building **reliable, optimized, and scalable scripts** for the GTA V roleplay community.  
+With **3+ years of experience**, I focus on crafting reusable systems with **multi-framework compatibility**: QBCore, ESX, and Qbox.
 
 ---
 
-### 🚀 Stack Hiện Tại
+## 🧩 Core Development Principles
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Lua-blue?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+- 🔧 Performance-first scripting
+- 🧱 Modular and maintainable codebase
+- 🔁 Cross-framework design (ESX, QBCore, Qbox)
+- 💡 Utility-driven UI & UX for real players
 
 ---
 
-### 📈 Thống Kê GitHub
+## ✨ Portfolio Highlights
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TxM&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=TxM&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+### 🔑 **VehicleKeys – Advanced Key Management**
+> A comprehensive vehicle key system with a modern, immersive React-based interface.
+
+- Lockpicking mini-games & valet feature
+- QBCore / ESX / Qbox compatibility
+- Proximity-based locking + targeting support
+- Autopilot interface with TypeScript frontend
 
 ---
 
-### 📫 Liên Hệ Với Tôi
+### 🔗 **CommunityBridge – Universal Integration Layer**
+> Reduce time, increase compatibility.
 
-- 💬 Discord: `txmdev#0001`
-- 📁 GitHub: [github.com/TxM](https://github.com/TxM)
-- 📧 Email: `txm.dev@example.com` *(thay email nếu cần)*
+- Bridges between major FiveM frameworks
+- Works with `ox_inventory`, `qb-inventory`, etc.
+- Simplifies code reuse across servers
+- GPLv3 open-source
+
+---
+
+## 🌐 Resources & Documentation
+
+- 📘 [Official Docs](https://txm-docs.example.com) — Setup & usage guides *(replace with actual link)*
+- ▶️ [YouTube Tutorials](https://youtube.com/@txmdev) — Video walk-throughs *(if any)*
+- 💬 [Discord Support](https://discord.gg/YOUR_INVITE) — Community help & real-time Q&A
+
+---
+
+## 🚀 Popular GitHub Repositories
+
+- [`txm-vehiclekeys`](https://github.com/TxM/txm-vehiclekeys)
+- [`txm-bridge`](https://github.com/TxM/txm-bridge)
+- [`txm-clothesbox`](https://github.com/TxM/txm-clothesbox)
+*(Add more as needed)*
+
+---
+
+## 🎉 Fun Dev Fact
+
+> Did you know? The name “TxM” originally came from the phrase **"Tech x Modular"**, reflecting a passion for clean, reusable systems.
 
 ---
 
