@@ -9,12 +9,12 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/TxM?style=social" />
   <img src="https://img.shields.io/github/stars/TxM?style=social" />
-  <img src="https://komarev.com/ghpvc/?username=TxM&label=Profile Views&color=539eff" />
-  <a href="https://discord.gg/txmscripts">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=TxM&label=Lượt+truy+cập&color=539eff" />
+  <a href="https://discord.gg/txmscripts" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-TxM%20Scripts-5865F2?style=flat&logo=discord&logoColor=white" />
   </a>
-  <a href="https://zypage.com/txmscripts">
-    <img src="https://img.shields.io/badge/Mời+cà+phê+-Ko--fi-FF5E5B?style=flat&logo=ko-fi&logoColor=white" />
+  <a href="https://zypage.com/txmscripts" target="_blank">
+    <img src="https://img.shields.io/badge/Mời+cà+phê+-Zypage-FF5E5B?style=flat&logo=buymeacoffee&logoColor=white" />
   </a>
 </p>
 
