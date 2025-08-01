@@ -70,12 +70,10 @@ Với hơn **1 năm kinh nghiệm**, tôi tập trung phát triển các hệ th
   <img src="https://github-readme-stats.vercel.app/api?username=TxM&show_icons=true&theme=tokyonight&hide_title=true" alt="TxM's GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TxM&theme=tokyonight" alt="TxM's GitHub Streak" />
-</p>
+### 🧠 Languages Dev
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TxM&layout=compact&theme=tokyonight" alt="TxM's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TxM&layout=compact&theme=tokyonight" />
 </p>
 
 
